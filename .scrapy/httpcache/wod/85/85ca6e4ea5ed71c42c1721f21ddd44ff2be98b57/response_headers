@@ -1,0 +1,6 @@
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: nginx/1.12.1
+Location: http://crossfitonthehill.com/category/wod
+Date: Sat, 09 Sep 2017 15:13:32 GMT
+Content-Type: text/html; charset=UTF-8
